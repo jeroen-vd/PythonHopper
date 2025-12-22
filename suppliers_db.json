@@ -1719,7 +1719,10 @@
     }
   ],
   "defaults_by_production": {
-    "Laser": "ACME"
+    "Lasercutting": "Productora",
+    "Sheetmetal +4m": "Productora",
+    "Sheetmetal": "Productora",
+    "Cutting": "Productora"
   },
   "defaults_by_finish": {}
 }

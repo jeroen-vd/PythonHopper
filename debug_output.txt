@@ -9,3 +9,4 @@ DEBUG: delivery_opts loaded: 8 items
 DEBUG: set_choices called with 8 values
 DEBUG: _all_values = ['Geen', 'Bestelling wordt opgehaald', 'Leveradres wordt nog meegedeeld']...
 ERROR in delivery_combo.set_choices: 'charmap' codec can't encode character '\u2605' in position 125: character maps to <undefined>
+test ★
