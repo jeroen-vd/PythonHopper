@@ -1,8 +1,8 @@
 {
-  "source_folder": "C:/Users/jeroe/SynologyDrive/Documenten/Projects/2023/Maatwerk overkappingen/Speelplaatsoverkappingen/20230171 - Smeermaas/CAD/v2",
-  "dest_folder": "C:/Users/jeroe/Desktop",
-  "project_number": "20230171",
-  "project_name": "Smeermaas",
+  "source_folder": "C:/Users/jeroe/SynologyDrive/Documenten/Projects/2024/Maatwerk overkappingen/Diverse/20240237 - Luifels Lauweplaats/CAD/3D Soldiworks Files/V2 - Detaillering/M4 - Luifel",
+  "dest_folder": "C:/Users/jeroe/SynologyDrive/Documenten/Projects/2024/Maatwerk overkappingen/Diverse/20240237 - Luifels Lauweplaats/CAD/Bestellingen/M4 - Luifel",
+  "project_number": "20240237",
+  "project_name": "Lauweplaats LF",
   "file_extensions": [
     {
       "key": "pdf",
@@ -19,7 +19,7 @@
         ".step",
         ".stp"
       ],
-      "enabled": true
+      "enabled": false
     },
     {
       "key": "dxf",
