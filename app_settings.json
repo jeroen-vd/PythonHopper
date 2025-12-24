@@ -19,7 +19,7 @@
         ".step",
         ".stp"
       ],
-      "enabled": false
+      "enabled": true
     },
     {
       "key": "dxf",
